@@ -1,4 +1,4 @@
-package API.antity;
+package API.entity;
 
 import jakarta.persistence.*;
 

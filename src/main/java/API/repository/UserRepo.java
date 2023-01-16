@@ -1,6 +1,6 @@
 package API.repository;
 
-import API.antity.User;
+import API.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

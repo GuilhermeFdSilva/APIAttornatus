@@ -1,4 +1,4 @@
-package API.antity;
+package API.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;

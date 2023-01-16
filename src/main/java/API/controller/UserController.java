@@ -1,7 +1,7 @@
 package API.controller;
 
-import API.antity.Location;
-import API.antity.User;
+import API.entity.Location;
+import API.entity.User;
 import API.repository.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

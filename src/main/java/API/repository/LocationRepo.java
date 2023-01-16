@@ -1,6 +1,6 @@
 package API.repository;
 
-import API.antity.Location;
+import API.entity.Location;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
