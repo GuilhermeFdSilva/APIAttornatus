@@ -23,7 +23,7 @@ public class LocationController {
         }
     }
     @GetMapping("/enderecos")
-    public ResponseEntity<List<Location>> getAllUsers(){
+    public ResponseEntity<List<Location>> getAllLocations(){
         try{
             List<Location> list = locationRepo.findAll();
             if(list.isEmpty()){
